@@ -77,13 +77,13 @@ $("button").click(function (e) {
     }
 
     //DEBUG
-    $("#output1").html("operation: " + op);
-    $("#output2").html("buffer: " + buffer);
-    $("#output7").html("str: " + str);
-    $("#output3").html("parsed_number: " + parsed_number);
-    $("#output4").html("num_flag: " + num_flag);
-    $("#output5").html("op_flag: " + op_flag);
-    $("#output6").html("ignore_flag: " + ignore_flag);
+    // $("#output1").html("operation: " + op);
+    // $("#output2").html("buffer: " + buffer);
+    // $("#output7").html("str: " + str);
+    // $("#output3").html("parsed_number: " + parsed_number);
+    // $("#output4").html("num_flag: " + num_flag);
+    // $("#output5").html("op_flag: " + op_flag);
+    // $("#output6").html("ignore_flag: " + ignore_flag);
 });
 
 function clearAll() {
