@@ -1,2 +1,2 @@
 # Simple-calculator
-A simple calculator written in Javascript (using JQuery ) for a programming course.
+A simple calculator written in Javascript and JQuery for a programming course.
